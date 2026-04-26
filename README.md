@@ -7,3 +7,4 @@ The original paper is from "External Equity Financing Shocks, Financial Flows, a
 The Data folder contains the original data downloaded directly from Xiaoji LIN's website 
 Webpage is accessed via "https://sites.google.com/a/umn.edu/xiaojilin/data" 
  
+CRSP/Compustat Merged Data are downloaded directly on WRDS, default filters and selected variabels (see paper for details) 
