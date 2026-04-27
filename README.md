@@ -8,3 +8,6 @@ The Data folder contains the original data downloaded directly from Xiaoji LIN's
 Webpage is accessed via "https://sites.google.com/a/umn.edu/xiaojilin/data" 
  
 CRSP/Compustat Merged Data are downloaded directly on WRDS, default filters and selected variabels (see paper for details) 
+ 
+The TFP data is downloaded via Fed webite 
+The website link is "https://www.frbsf.org/research-and-insights/data-and-indicators/total-factor-productivity-tfp/" 
