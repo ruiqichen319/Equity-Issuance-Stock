@@ -1,0 +1,71 @@
+"1. This file contains the equity issuance cost shock (ICS) constructed in Belo, Lin and Yang (2018), ""External equity financing shocks, financial flows and asset prices"". Below is a brief desription of the construction of the ICS. For the contruction details, please refer to the paper.",
+,
+2. The ICS is defined as a linear combination of two aggregate moments as the following:,
+,"ICS = beta1*dEI + beta2*dDK,"
+where beta1=0.046 and beta2=-0.078 are implied by a neoclassical model with external equity financing shocks.,
+dEI is the change in the fraction of firms issuing equity in the cross section.,
+dDK is the change in the aggregate debt-to-capital ratio.,
+Both dEI and dDK are normalized to have mean zero and unit variance.,
+,
+"3.Note that we have updated the ICS to 2020. In Belo, Lin and Yang, the ICS is estimated in the sample period of 1964-2013.",
+"4.Please cite Belo, Lin and Yang (2018) when referring to the data.",
+,
+,
+year,ICS
+1964,0.5261976899
+1965,-0.5570290882
+1966,5.253390138
+1967,2.49653612
+1968,7.902988878
+1969,-2.882070883
+1970,-13.99653293
+1971,-4.222537943
+1972,3.19631878
+1973,-10.05794642
+1974,-4.433850536
+1975,6.949677194
+1976,9.423074133
+1977,5.187391541
+1978,2.380721276
+1979,4.985296135
+1980,4.503884232
+1981,10.91381793
+1982,-6.369009638
+1983,15.73427018
+1984,6.097346998
+1985,-19.17461431
+1986,1.358809808
+1987,0.4116723815
+1988,-26.21475821
+1989,-9.647624264
+1990,-0.5573499945
+1991,0.5293602333
+1992,18.59810178
+1993,4.773174522
+1994,6.879734491
+1995,-2.966460915
+1996,27.76359038
+1997,-5.269126505
+1998,-4.032582786
+1999,-11.42670964
+2000,5.057318566
+2001,-7.148300337
+2002,-1.668458242
+2003,1.170822371
+2004,8.293262654
+2005,-0.1440441472
+2006,18.86695501
+2007,-5.353133953
+2008,-4.56981622
+2009,11.06429041
+2010,2.870756166
+2011,-1.463739234
+2012,-1.301336298
+2013,6.514231534
+2014,-6.221975415
+2015,-24.47431468
+2016,-5.908950217
+2017,-4.301964608
+2018,6.421861605
+2019,-1.27787061
+2020,7.124314971

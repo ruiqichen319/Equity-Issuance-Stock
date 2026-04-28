@@ -11,3 +11,7 @@ CRSP/Compustat Merged Data are downloaded directly on WRDS, default filters and 
  
 The TFP data is downloaded via Fed webite 
 The website link is "https://www.frbsf.org/research-and-insights/data-and-indicators/total-factor-productivity-tfp/" 
+  
+The latest version of the paper is in the foler  
+  
+Please use main_data_update_v2.do and sanity_check.do to update and verify the data  
